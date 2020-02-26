@@ -1,4 +1,4 @@
-# contador_de_pessoas
+# people counter
 
 A new Flutter application.
 
